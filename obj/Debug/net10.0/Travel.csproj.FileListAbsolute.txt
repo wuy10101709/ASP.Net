@@ -137,5 +137,6 @@ D:\ASP.NET\Travel\obj\Debug\net10.0\compressed\cf8dr6as19-{0}-vagikyz9qx-vagikyz
 D:\ASP.NET\Travel\obj\Debug\net10.0\compressed\cesnen2igc-{0}-tvy3j3n584-tvy3j3n584.gz
 D:\ASP.NET\Travel\obj\Debug\net10.0\compressed\rs0asqg6ux-{0}-b9j3kvyqhg-b9j3kvyqhg.gz
 D:\ASP.NET\Travel\obj\Debug\net10.0\compressed\dhx7pfewvc-{0}-l16vlv7loc-l16vlv7loc.gz
-D:\ASP.NET\Travel\obj\Debug\net10.0\compressed\ijerre3xec-{0}-4exjbx38v1-4exjbx38v1.gz
-D:\ASP.NET\Travel\obj\Debug\net10.0\compressed\lm8dwy3x7t-{0}-2es2uh5qs3-2es2uh5qs3.gz
+D:\ASP.NET\Travel\obj\Debug\net10.0\Travel.sourcelink.json
+D:\ASP.NET\Travel\obj\Debug\net10.0\compressed\lm8dwy3x7t-{0}-rhhi5o7yr6-rhhi5o7yr6.gz
+D:\ASP.NET\Travel\obj\Debug\net10.0\compressed\ijerre3xec-{0}-kjbrvufem1-kjbrvufem1.gz
